@@ -942,6 +942,7 @@
     "InvalidEmail": "Invalid email address",
     "Unavailable": "Unavailable.",
     "FileTooLarge": "File is too large.",
+    "InvalidFileType": "Invalid file type.",
     "FailedToReceive": "Server failed to receive your file.",
     "MissingData": "Request is missing data.",
     "ProbeError": "Failed to get file metadata.",
